@@ -1,0 +1,23 @@
+body 
+{
+background-color: lightgray;
+color:rgb(63, 31, 31);
+text-align: center;
+font-size: 35px;
+background-size: cover;
+background-repeat: no-repeat;
+margin-top:200px;
+}
+
+button
+{
+ background-color: #dd2565 ;
+ color: white;  
+ text-align: center;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ border-radius: 25px;
+ height: 60px;
+ width: 200px;
+ font-size: 25px;
+}
